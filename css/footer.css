@@ -1,0 +1,56 @@
+.footer{
+    margin-top: 100px;
+    background-color: var(--primary-color);
+    padding-bottom: 50px;
+}
+.footer__desc{
+    padding-bottom: 30px;
+}
+.footer__title{
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.footer__contact-list{
+
+}
+.footer__contact-item{
+    margin: 10px 0;
+}
+.footer__contact-item i{
+    display: inline-block;
+}
+.footer__contact-item p{
+    display: inline-block;
+}
+.footer__desc{
+
+}
+.footer__logo{
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.footer__row{
+    color: var(--white-color);
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 200;
+}
+
+.footer__form{
+    margin-bottom: 30px;
+    margin-left: auto;
+}
+.footer__form-control{
+    display: block;
+    height: 40px;
+    width: 100%;
+    box-shadow: none;
+    border:none;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 20px;
+}

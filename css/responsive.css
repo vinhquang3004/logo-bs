@@ -1,0 +1,39 @@
+@media screen and (max-width: 767px) {
+    .testimonial__desc{
+        text-align: center;
+    }
+
+    .testimonial__col{
+        border-left: none;
+        border-top: 3px solid var(--primary-color);
+        padding-top: 10px;
+        margin-left: 0;
+
+    }
+
+    .testimonial{
+        padding-left: 0;
+    }
+
+    .footer__row .footer__form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer__subcribe-btn{
+        display: block;
+        margin: 20px auto;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+
+@media screen and (max-width: 892px) {
+    .nav-link{
+        display: inline-block;
+        padding-right: 50px;
+    }
+}

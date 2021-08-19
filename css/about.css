@@ -1,0 +1,38 @@
+.about{
+    margin: 50px 0;
+    padding: 50px 0;
+    background-color: #f3f3f3;
+}
+.about__heading{
+
+}
+.about__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about__title{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px 0 20px 20px;
+}
+.about__title-list{
+    list-style: circle;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px;
+
+}
+.about__title-item{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 200;
+
+}
+.about__image{
+
+}
+.about__heading.heading-title{
+
+}
